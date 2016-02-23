@@ -1,0 +1,3 @@
+﻿  3DRoomCode.cpp
+c:\users\daniel\desktop\3droom\3droom\3droomcode.cpp(137): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  3DRoom.vcxproj -> C:\Users\Daniel\Desktop\3DRoom\Debug\3DRoom.exe
